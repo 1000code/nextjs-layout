@@ -1,7 +1,8 @@
 import React from "react";
+import AdminLayout from "../../../../components/layouts/adminLayout";
 
 const AddProduct = () => {
-  return <div>AddProduct</div>;
+  return <AdminLayout>AddProduct</AdminLayout>;
 };
 
 export default AddProduct;
